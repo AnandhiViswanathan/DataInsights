@@ -1,18 +1,16 @@
 # DataInsights
-This document provides an overview of retail revenue analysis across all nations. ​ Key metrics include:
+The Analysis provides an overview of retail revenue analysis across all nations. ​ Key metrics include:
 
 Unique Customers: 499.99K ​
 Unique Suppliers: 50K ​
-Late Orders: 15.12M ​
-
-The analysis includes visual data on total revenue by nation and year, shipment modes, and customer segments. ​ The graphs illustrate trends in revenue distribution and the most common shipment modes. ​ The document highlights the performance and operational metrics of the retail sector in the specified nations. ​
+Late Orders: 15.12M ​​
 
 Dashboard Insights as follows
 
-📦 What are the most common shipment modes used?
+⏰ How many late orders are reported? - Provides insights into missed opportunities through late orders to improve efficiency and increase revenue for future.
 
-🌍 What is the total revenue for each nation?
+🌍 Total revenue for each nation - Provides insights into how much revenue is generated for each nation in comparison to each other year on year.
 
-📊 What are the total revenues by customer segment?
+📦Revenue by most common shipment modes - Identifying Revenue generated through each shipment modes of transport.
 
-⏰ How many late orders are reported?
+📊 Total revenues by customer segment - Provides insights into Customer segment dimension and their contribution of revenue.
